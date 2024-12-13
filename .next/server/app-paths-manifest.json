@@ -1,8 +1,9 @@
 {
-  "/campus-map/page": "app/campus-map/page.js",
-  "/Contact-us/page": "app/Contact-us/page.js",
-  "/Our-Subjects/page": "app/Our-Subjects/page.js",
-  "/students/page": "app/students/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
+  "/students/page": "app/students/page.js",
+  "/Our-Subjects/page": "app/Our-Subjects/page.js",
+  "/Contact-us/page": "app/Contact-us/page.js",
+  "/campus-map/page": "app/campus-map/page.js",
   "/staff/page": "app/staff/page.js"
 }
