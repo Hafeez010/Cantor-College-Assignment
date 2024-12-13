@@ -3,5 +3,6 @@
   "/Contact-us/page": "app/Contact-us/page.js",
   "/Our-Subjects/page": "app/Our-Subjects/page.js",
   "/students/page": "app/students/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/staff/page": "app/staff/page.js"
 }

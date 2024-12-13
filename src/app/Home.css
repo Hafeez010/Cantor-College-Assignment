@@ -23,3 +23,50 @@ h5{
     font-size: 18px;
     text-decoration: underline;
 }
+.welcome {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .welcome p {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .AboutUs {
+    padding: 2rem;
+    background-color: #fff;
+    margin-bottom: 2rem;
+  }
+  
+  .AboutUs h3 {
+    font-size: 1.8rem;
+    color: #333;
+  }
+  
+  .AboutUs p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .Facilities {
+    padding: 2rem;
+    background-color: #e1e1e1;
+  }
+  
+  .Facilities h4 {
+    font-size: 1.6rem;
+    color: #333;
+  }
+  
+  .Facilities ul {
+    list-style-type: disc;
+    margin-left: 2rem;
+    font-size: 1.1rem;
+  }
+  
+  .Facilities li {
+    margin-bottom: 0.8rem;
+  }
+  

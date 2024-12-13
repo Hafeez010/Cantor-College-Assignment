@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import './Home.css';
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
         <h4>Facilities</h4>
         <p>
           The College is located in the attractive and pleasantly refurbished building. The building houses computing laboratories, and lecture/tutorial rooms. It has its own catering facilities and student work areas. There is also a car park to the back of the building.
-          Our building has space of 9500m², houses over 240 staff, and provides teaching space for more than 1600 students.
+          Our building has space of 9500m², houses over 240 staff, and provides teaching space for more than 1600 students.To see our rules regarding the facilities just click this <Link href='/facilityrules'>link.</Link>
         </p>
         </section>
         <ul>

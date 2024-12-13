@@ -1,5 +1,37 @@
-.contact{ 
-    padding: 2rem;
+.contact-head {
     text-align: center;
-    background-color: #e1e1e1;
-}
+    padding: 1rem 0;
+    background-color: #f2f2f2;
+  }
+  
+  .contact-head h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .Contact-info {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 2rem auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Contact-info p {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .Contact-info ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .Contact-info li {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    color: #555;
+  }
+  
