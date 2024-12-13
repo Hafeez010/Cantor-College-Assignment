@@ -21,19 +21,26 @@
     "/students/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
+      "static/css/app/students/page.css",
       "static/chunks/app/students/page.js"
     ],
     "/staff/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/staff/page.js",
-      "static/css/app/staff/page.css"
+      "static/css/app/staff/page.css",
+      "static/chunks/app/staff/page.js"
     ],
     "/Contact-us/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/Contact-us/page.css",
       "static/chunks/app/Contact-us/page.js"
+    ],
+    "/Our-Subjects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Our-Subjects/page.css",
+      "static/chunks/app/Our-Subjects/page.js"
     ]
   }
 }

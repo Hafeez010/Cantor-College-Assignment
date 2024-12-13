@@ -1,18 +1,24 @@
-nav{
+.navbar-menu {
+    list-style: none; 
+    display: flex;
+    justify-content: space-around; 
+    padding: 0; 
+    margin: 0; 
     background-color: #003366;
-    color: white;
     padding: 1rem;
-    text-align: center;
-}
-nav a {
-    color: white;
-    margin: 0 10px;
-    text-decoration: none;
-}
-nav a {
-    text-decoration: underline; 
-    padding: 10px 10px; 
+  }
+  
+  .navbar-menu li {
+    margin: 0 10px; 
+  }
+  
+  .navbar-menu li a {
+    text-decoration: none; 
     color: white; 
-    text-decoration-thickness: 1px;
-    text-underline-offset: 5px;
-}
+    font-weight: bold; 
+  }
+  
+  .navbar-menu li a:hover {
+    color: #0070f3; 
+  }
+  

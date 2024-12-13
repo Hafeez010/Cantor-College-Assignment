@@ -7,14 +7,14 @@ export default function Home() {
         <p>Excellence in Education, Tradition in Teaching</p>
       </section>
 
-      <section className="about-us">
+      <section className="AboutUs">
         <h3>Cantor College was established in 1989 to specialize in Computing and Design.</h3>
         <p>
           At Cantor College, we want to give students the education they need to achieve their career aims, leaving them equipped with the knowledge, skills, and experience to succeed. Cantor College gives you the opportunities that can give you the edge when you enter the world of work, through our teaching and our links to some of the world's leading researchers and employers. Our students have gone on to successful careers in a wide range of industries across the globe. Whatever your ambitions, our learning and support can help you get the most out of your time with Cantor College, both as a student and in your future career.
         </p>
       </section>
 
-      <section className="facilities">
+      <section className="Facilities">
         <h4>Facilities</h4>
         <p>
           The College is located in the attractive and pleasantly refurbished building. The building houses computing laboratories, and lecture/tutorial rooms. It has its own catering facilities and student work areas. There is also a car park to the back of the building.

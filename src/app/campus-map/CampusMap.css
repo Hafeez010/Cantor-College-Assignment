@@ -1,5 +1,8 @@
 .campus-map-image{
-    width: 100%;
+    display: block;
+    max-width: 100%;
+    height:auto;
+    margin: 0 auto;
 }
 .Campus-head{ 
     padding: 2rem;

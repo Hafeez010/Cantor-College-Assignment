@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
         {children}
         </div>
         <footer>
-           <p>&copy; {new Date().getFullYear()}</p>
+           <p> Cantor College  &copy; {new Date().getFullYear()}</p>
         </footer>
       </body>
     </html>

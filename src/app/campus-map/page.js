@@ -8,7 +8,7 @@ export default function Campusmap() {
         </section>
         <section className="campus-map-section">
         <img src="/images/website-images-assets/872SHUSpaceCitymap.jpg" 
-        alt="Map of Cantor College" className="campus-map-images"
+        alt="Map of Cantor College" className="campus-map-image"
         />
         </section>
       </div>
