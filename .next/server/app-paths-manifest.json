@@ -1,7 +1,7 @@
 {
   "/campus-map/page": "app/campus-map/page.js",
-  "/Contact-us/page": "app/Contact-us/page.js",
   "/Our-Subjects/page": "app/Our-Subjects/page.js",
+  "/Contact-us/page": "app/Contact-us/page.js",
   "/students/page": "app/students/page.js",
   "/page": "app/page.js"
 }
