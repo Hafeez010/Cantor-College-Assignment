@@ -2,6 +2,7 @@ import './Campusmap.css';
 export default function Campusmap() {
     return (
       <div>
+        <title>Map of the Campus</title>
         <section className="Campus-head">
         <h2>Map of the campus</h2>
         <p>Find below a map of our grand campus</p>

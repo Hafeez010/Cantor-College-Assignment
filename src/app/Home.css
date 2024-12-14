@@ -46,7 +46,7 @@ h5{
   }
   
   .AboutUs p {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     color: #555;
   }
   
@@ -56,14 +56,14 @@ h5{
   }
   
   .Facilities h2 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     color: #333;
   }
   
   .Facilities ul {
     list-style-type: disc;
     margin-left: 2rem;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
   }
   
   .Facilities li {

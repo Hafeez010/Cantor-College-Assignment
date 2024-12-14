@@ -3,6 +3,7 @@ import './staff.css';
 export default function Staff() {
     return (
       <div className="staff-page">
+        <title>Staff info</title>
         <h2>Staff Information</h2>
         <section className="Staff-page-intro">
         <p>

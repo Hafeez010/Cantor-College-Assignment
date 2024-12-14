@@ -320,6 +320,7 @@ const designCourses = [
 export default function OurSubjects() {
     return (
       <div>
+        <title>Our Subjects</title>
         <section className="courses">
         <h2>Our subjects</h2>
         <p>Here are the marvellous courses we offer at Cantor College</p>

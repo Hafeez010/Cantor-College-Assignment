@@ -3,6 +3,7 @@ import './students.css';
 const Students = () => {
   return (
     <div className="students-page">
+      <title>Student info</title>
       <h2>Student Information Page</h2>
       <p>
         Explore Cantor College: World-Class Facilities for Your Success. At Cantor College, we are committed to
