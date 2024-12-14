@@ -18,6 +18,18 @@
       "static/css/app/facilityrules/page.css",
       "static/chunks/app/facilityrules/page.js"
     ],
+    "/students/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/students/page.css",
+      "static/chunks/app/students/page.js"
+    ],
+    "/staff/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/staff/page.css",
+      "static/chunks/app/staff/page.js"
+    ],
     "/campus-map/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -35,23 +47,6 @@
       "static/chunks/main-app.js",
       "static/css/app/Contact-us/page.css",
       "static/chunks/app/Contact-us/page.js"
-    ],
-    "/students/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/students/page.css",
-      "static/chunks/app/students/page.js"
-    ],
-    "/staff/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/staff/page.css",
-      "static/chunks/app/staff/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
