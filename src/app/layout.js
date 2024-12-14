@@ -7,7 +7,9 @@ export default function RootLayout({ children }) {
         <div className='container'>
         <header>
           <Navbar/>
+          <section className="Cantor-College-Welcome">
           <h1>Welcome to Cantor College</h1>
+          </section>
         </header>
         {children}
         </div>

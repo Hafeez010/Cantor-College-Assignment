@@ -5,6 +5,11 @@ footer {
     padding: 8px;
     margin-top: 20px;
 }
-h1{
+.Cantor-College-Welcome h1{
     text-align: center;
+}
+@media (max-width:768px){
+   .Cantor-College-Welcome h1{
+    background-color:#003366;
+    }
 }

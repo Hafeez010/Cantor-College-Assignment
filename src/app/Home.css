@@ -10,18 +10,15 @@
 }
 .Facilities{
     text-align: center;
+    font-size: 1.5rem;
     }
-h4{
-    font-size: 18px;
+.Facilities h2{
     text-decoration: underline;
 }
-li{
-    text-align: center;
-    list-style-type: none;
-}
-h5{
-    font-size: 18px;
-    text-decoration: underline;
+
+.Facilities-list h3{
+    font-size: 1.5rem;
+text-decoration: underline;
 }
 .welcome {
     background-color: #f4f4f4;
@@ -59,14 +56,12 @@ h5{
     font-size: 1.8rem;
     color: #333;
   }
-  
-  .Facilities ul {
+  .Facilities-list li{
+    text-align: center;
+    list-style-type: none;
+    padding-right: 2rem;
+  }
+  .Facilities-list ul {
     list-style-type: disc;
-    margin-left: 2rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
-  
-  .Facilities li {
-    margin-bottom: 0.8rem;
-  }
-  

@@ -12,6 +12,12 @@
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
+    "/facilityrules/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/facilityrules/page.css",
+      "static/chunks/app/facilityrules/page.js"
+    ],
     "/students/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -41,12 +47,6 @@
       "static/chunks/main-app.js",
       "static/css/app/Contact-us/page.css",
       "static/chunks/app/Contact-us/page.js"
-    ],
-    "/facilityrules/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/facilityrules/page.css",
-      "static/chunks/app/facilityrules/page.js"
     ]
   }
 }

@@ -20,7 +20,7 @@ export default function FacilityRules() {
       </section>
 
       <section className="rules">
-        <h3>A. Access:</h3>
+        <h3>Access:</h3>
         <ul>
           <li>The use of Library and Resource Centre facilities is normally limited to use for the educational and other purposes of the College.</li>
           <li>All individuals wishing to become members of the Library and Resource Centre must comply with the registration procedures. These include an undertaking to abide by Library and Resource Centre rules.</li>
@@ -31,7 +31,7 @@ export default function FacilityRules() {
       </section>
 
       <section className="rules">
-        <h3>B. Use of Facilities:</h3>
+        <h3>Use of Facilities:</h3>
         <ul>
           <li>The Library and Resource Centre is not responsible for loss of, or damage to, personal belongings. Users must take reasonable precautions against theft and must not leave belongings unattended.</li>
           <li>All users are required to conduct themselves quietly throughout the Library and Resource Centre. Conversations must be kept to a minimum, especially in ‘Silent’ areas.</li>

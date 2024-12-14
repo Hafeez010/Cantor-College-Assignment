@@ -1,4 +1,4 @@
-import './Campusmap.css';
+import './CampusMap.css';
 export default function Campusmap() {
     return (
       <div>

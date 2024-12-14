@@ -20,6 +20,7 @@ export default function Home() {
           Our building has space of 9500m², houses over 240 staff, and provides teaching space for more than 1600 students.To see our rules regarding the facilities just click this <Link href='/facilityrules'>link.</Link>
         </p>
         </section>
+        <section className="Facilities-list">
         <ul>
          <li><h3>Facilities include:</h3></li>
           <li>• Wi-fi technology</li>
@@ -36,7 +37,7 @@ export default function Home() {
           <li>• Cycle racks</li>
           <li>• Gallery</li>
         </ul>
-      
+        </section>
     </div>
   );
 }
