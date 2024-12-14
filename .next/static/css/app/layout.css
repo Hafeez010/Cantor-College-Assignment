@@ -89,7 +89,7 @@ footer {
     color: white;
     text-align: center;
     padding: 8px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 .Cantor-College-Welcome h1{
     text-align: center;
@@ -99,3 +99,12 @@ footer {
     background-color:#003366;
     }
 }
+.cantor-college-logo {
+    width: 150px; 
+    height: 150px;
+    background-image: url('/images/website-images-assets/logo.png'); 
+    background-repeat: no-repeat;
+    background-size: contain; 
+    background-position: center;
+    filter:grayscale(100)
+  }

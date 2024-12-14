@@ -56,12 +56,18 @@ text-decoration: underline;
     font-size: 1.8rem;
     color: #333;
   }
-  .Facilities-list li{
+  .Facilities li{
     text-align: center;
     list-style-type: none;
     padding-right: 2rem;
   }
-  .Facilities-list ul {
+  .Facilities ul {
     list-style-type: disc;
     font-size: 1.3rem;
+    background-color: #f2f2f2;;
   }
+ .Business-info{
+  text-align: center;
+  font-size: 1.5rem;
+ }
+  

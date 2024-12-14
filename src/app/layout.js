@@ -13,6 +13,8 @@ export default function RootLayout({ children }) {
         </header>
         {children}
         </div>
+        <div className="cantor-college-logo"> 
+        </div>
         <footer>
            <p> Cantor College  &copy; {new Date().getFullYear()}</p>
         </footer>

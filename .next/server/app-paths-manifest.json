@@ -1,8 +1,10 @@
 {
-  "/campus-map/page": "app/campus-map/page.js",
-  "/Our-Subjects/page": "app/Our-Subjects/page.js",
-  "/students/page": "app/students/page.js",
   "/staff/page": "app/staff/page.js",
   "/page": "app/page.js",
-  "/Contact-us/page": "app/Contact-us/page.js"
+  "/students/page": "app/students/page.js",
+  "/Business-information/page": "app/Business-information/page.js",
+  "/Contact-us/page": "app/Contact-us/page.js",
+  "/facilityrules/page": "app/facilityrules/page.js",
+  "/campus-map/page": "app/campus-map/page.js",
+  "/Our-Subjects/page": "app/Our-Subjects/page.js"
 }

@@ -7,7 +7,7 @@ export default function ContactUs() {
         <section className="contact-head">
           <h2>Contact us</h2>
         </section>
-        <section className="Contact-info">
+        <section className="contact-info">
           <p>How to find us:</p>
           <ul>
             <li>Cantor College</li>

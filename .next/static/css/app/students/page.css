@@ -21,6 +21,7 @@
   .facility-section ul {
     list-style-type: disc;
     padding-left: 20px;
+    list-style-type: none;
   }
   
   .facility-section li {

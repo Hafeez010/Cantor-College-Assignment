@@ -12,7 +12,7 @@
     color: #333;
   }
   
-  .Contact-info {
+  .contact-info {
     padding: 2rem;
     background-color: #fff;
     margin: 2rem auto;
@@ -21,18 +21,18 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-  .Contact-info p {
+  .contact-info p {
     font-size: 1rem;
     color: white;
     margin-bottom: 1rem;
   }
   
-  .Contact-info ul {
+  .contact-info ul {
     list-style-type: none;
     padding-left: 0;
   }
   
-  .Contact-info li {
+  .contact-info li {
     font-size: 1rem;
     margin: 0.5rem 0;
     color: white;
@@ -43,7 +43,7 @@
     height:auto;
     margin: 0 auto;
   }
-  .Contact-info {
+  .contact-info {
     background-image: url('/images/website-images-assets/IMG_1437.jpeg'); 
     background-size: cover;
     background-position: center; 
@@ -53,7 +53,7 @@
     border-radius: 8px; 
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
   }
-  .Contact-info ul {
+  .contact-info ul {
     background-color: rgba(0, 0, 0, 0.6); 
     padding: 1rem; 
     border-radius: 8px; 

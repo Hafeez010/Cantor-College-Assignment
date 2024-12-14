@@ -17,10 +17,8 @@ export default function Home() {
         <h2>Facilities</h2>
         <p>
           The College is located in the attractive and pleasantly refurbished building. The building houses computing laboratories, and lecture/tutorial rooms. It has its own catering facilities and student work areas. There is also a car park to the back of the building.
-          Our building has space of 9500m², houses over 240 staff, and provides teaching space for more than 1600 students.To see our rules regarding the facilities just click this <Link href='/facilityrules'>link.</Link>
+          Our building has space of 9500m², houses over 240 staff, and provides teaching space for more than 1600 students. To see our rules regarding the facilities just click this <Link href='/facilityrules'>link.</Link>
         </p>
-        </section>
-        <section className="Facilities-list">
         <ul>
          <li><h3>Facilities include:</h3></li>
           <li>• Wi-fi technology</li>
@@ -37,6 +35,10 @@ export default function Home() {
           <li>• Cycle racks</li>
           <li>• Gallery</li>
         </ul>
+        </section>
+        <section className="Business-info">
+<p>        Partner with Cantor College: Unlock Expertise, Innovation, and Growth
+At Cantor College, we believe in the power of collaboration between education and industry. Our College offers a range of specialized services designed to support businesses in achieving their goals through cutting-edge expertise, innovation, and tailored solutions. With a focus on Computing, Design, and Technology, we are uniquely positioned to help your business thrive in an increasingly digital world. For information on our services click <Link href='/Business-information'>here.</Link></p>
         </section>
     </div>
   );

@@ -1,0 +1,46 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./src/app/Business-information/Businessinfo.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.business-info-section {
+    padding: 2rem;
+    font-size: 1.2rem;
+    background-color: #f9f9f9;
+}
+
+.business-info-section h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.business-info-section h2 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: #003366;
+}
+
+.business-info-section p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.business-info-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.business-info-section li {
+    margin-bottom: 2rem;
+}
+
+.why-partner ul {
+    padding-left: 20px;
+}
+
+.contact-us {
+    background-color: #e1f5fe;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
