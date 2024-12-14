@@ -1,0 +1,31 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./src/app/staff/staff.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.staff-page {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+  }
+  
+  .staff-page h2 {
+    color: #2a5d84;
+    text-align: center;
+  }
+  
+  .staff-section h3 {
+    color: #1f4b6e;
+    margin-top: 20px;
+  }
+  
+  .staff-section p {
+    font-size: 16px;
+    color: #333;
+    margin: 5px 0;
+  }
+  
+  .staff-section {
+    margin-bottom: 20px;
+  }
+  .Staff-page-intro{
+    text-align: center;
+  }

@@ -1,0 +1,62 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[10].use[3]!./src/app/Our-Subjects/subjects.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.courses{ 
+    padding: 1rem;
+    text-align: center;
+    background-color: #e1e1e1;
+}
+.Subjects-Container {
+    display: flex; 
+    justify-content: space-between; 
+    gap: 1rem;
+    margin: 2rem auto;
+    max-width: 1200px; 
+    padding: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  
+  .Computing-Courses {
+    flex: 1 1; 
+    padding: 1.5rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .Design-Courses {
+    flex: 1 1; 
+    padding: 1.5rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .course-list{
+    margin-top:2rem;
+  }
+    .subject-section {
+      margin-bottom: 1rem; 
+    }
+    .subject-card {
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-basis: calc(33% - 2rem); 
+        padding: 1rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+      }
+      
+      .subject-card h4 {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+      
+      .subject-card p {
+        font-size: 0.9rem;
+        margin: 0.5rem 0;
+      }
+  
