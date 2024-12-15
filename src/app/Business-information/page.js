@@ -1,5 +1,5 @@
-import './Businessinfo.css'
-
+import './Businessinfo.css';
+import Link from 'next/link';
 export default function BusinessInformation() {
     return (
       <div>
@@ -42,7 +42,7 @@ export default function BusinessInformation() {
 
           <section className="contact-us">
             <h2>Get in Touch</h2>
-            <p>Ready to explore how Cantor College can help your business grow? Contact our Business Services team today to discuss your needs and learn more about our offerings. We look forward to working with you to achieve your business goals.</p>
+            <p>Ready to explore how Cantor College can help your business grow? Contact our Business Services team today to discuss your needs and learn more about our offerings. We look forward to working with you to achieve your business goals. View our contact details <Link href='/Contact-us'>here.</Link> </p>
           </section>
         </section>
       </div>

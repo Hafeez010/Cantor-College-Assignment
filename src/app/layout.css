@@ -5,20 +5,25 @@ footer {
     padding: 8px;
     margin-top: 0px;
 }
-.Cantor-College-Welcome h1{
+
+.Cantor-College-Welcome h1 {
     text-align: center;
+    background-color: #003366; 
 }
-@media (max-width:768px){
-   .Cantor-College-Welcome h1{
-    background-color:#003366;
+
+.cantor-college-logo {
+    width: 150px;
+    height: 150px;
+    background-image: url('/images/website-images-assets/logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    filter: grayscale(100%);
+}
+
+
+@media (min-width: 768px) {
+    .Cantor-College-Welcome h1 {
+        background-color: transparent; 
     }
 }
-.cantor-college-logo {
-    width: 150px; 
-    height: 150px;
-    background-image: url('/images/website-images-assets/logo.png'); 
-    background-repeat: no-repeat;
-    background-size: contain; 
-    background-position: center;
-    filter:grayscale(100)
-  }

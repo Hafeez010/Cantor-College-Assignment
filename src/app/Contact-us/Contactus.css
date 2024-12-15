@@ -1,59 +1,87 @@
 .contact-head {
-    text-align: center;
-    padding: 1rem 0;
-    background-color: #f2f2f2;
-  }
-  
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #f2f2f2;
+}
+
+.contact-head h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.contact-info {
+  padding: 2rem;
+  background-color: #fff;
+  margin: 2rem auto;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0);
+}
+
+.contact-info p {
+  font-size: 1rem;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.contact-info ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact-info li {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: white;
+}
+
+.CantorCollegeImage {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.contact-info {
+  background-image: url('/images/website-images-assets/IMG_1437.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info ul {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+@media (min-width: 768px) {
   .contact-head h2 {
-    font-size: 1.5rem;
-    color: #333;
+    font-size: 2rem;
   }
-  
+
   .contact-info {
-    padding: 2rem;
-    background-color: #fff;
-    margin: 2rem auto;
-    max-width: 600px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 3rem;
+    max-width: 800px;
   }
-  
+
   .contact-info p {
-    font-size: 1rem;
-    color: white;
-    margin-bottom: 1rem;
+    font-size: 1.1rem;
   }
-  
+
   .contact-info ul {
-    list-style-type: none;
-    padding-left: 0;
+    padding: 1.5rem;
   }
-  
+
   .contact-info li {
-    font-size: 1rem;
-    margin: 0.5rem 0;
-    color: white;
+    font-size: 1.1rem;
   }
+
   .CantorCollegeImage {
-    display: block;
-    max-width: 100%;
-    height:auto;
-    margin: 0 auto;
+    max-width: 90%;
   }
-  .contact-info {
-    background-image: url('/images/website-images-assets/IMG_1437.jpeg'); 
-    background-size: cover;
-    background-position: center; 
-    background-repeat: no-repeat; 
-    color: white; 
-    padding: 2rem; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-  }
-  .contact-info ul {
-    background-color: rgba(0, 0, 0, 0.6); 
-    padding: 1rem; 
-    border-radius: 8px; 
-  }
-  
-  
+}

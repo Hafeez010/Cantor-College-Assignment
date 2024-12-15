@@ -1,73 +1,93 @@
-.welcome {
-    padding: 1rem;
-    text-align: center;
-    background-color: #e1e1e1;
-}
-.AboutUs{
-    padding: 2rem;
-    text-align: center;
-  
-}
-.Facilities{
-    text-align: center;
-    font-size: 1.5rem;
-    }
-.Facilities h2{
-    text-decoration: underline;
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.Facilities-list h3{
-    font-size: 1.5rem;
-text-decoration: underline;
-}
 .welcome {
-    background-color: #f4f4f4;
-    text-align: center;
-    padding: 2rem;
-  }
-  
-  .welcome p {
-    font-size: 1.5rem;
-    font-weight: bold;
-  }
-  
-  .AboutUs {
-    padding: 2rem;
-    background-color: #fff;
-    margin-bottom: 2rem;
-  }
-  
-  .AboutUs h1 {
-    font-size: 1.8rem;
-    color: #333;
-  }
-  
-  .AboutUs p {
-    font-size: 1.5rem;
-    color: #555;
-  }
-  
-  .Facilities {
-    padding: 2rem;
-    background-color: #f2f2f2;
-  }
-  
-  .Facilities h2 {
-    font-size: 1.8rem;
-    color: #333;
-  }
-  .Facilities li{
-    text-align: center;
-    list-style-type: none;
-    padding-right: 2rem;
-  }
-  .Facilities ul {
-    list-style-type: disc;
-    font-size: 1.3rem;
-    background-color: #f2f2f2;;
-  }
- .Business-info{
+  padding: 1rem;
   text-align: center;
+  background-color: #f4f4f4;
+}
+
+.welcome p {
+  font-size: 1.2rem; 
+  font-weight: bold;
+}
+
+.AboutUs {
+  padding: 1.5rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.AboutUs h1 {
+  font-size: 1.5rem; 
+  color: #333;
+}
+
+.AboutUs p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.Facilities {
+  padding: 1.5rem;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+
+.Facilities h2 {
   font-size: 1.5rem;
- }
-  
+  color: #333;
+  text-decoration: underline;
+}
+
+.Facilities ul {
+  list-style-type: disc;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 1rem;
+  background-color: #f2f2f2;
+}
+
+.Facilities li {
+  list-style-type: none;
+  margin: 0.5rem 0;
+}
+
+.Business-info {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 1.2rem;
+}
+
+
+@media (min-width: 768px) {
+  .welcome p {
+      font-size: 1.4rem; 
+  }
+
+  .AboutUs h1 {
+      font-size: 1.8rem;
+  }
+
+  .AboutUs p {
+      font-size: 1.4rem;
+  }
+
+  .Facilities h2 {
+      font-size: 1.8rem;
+  }
+
+  .Facilities ul {
+      font-size: 1.2rem;
+  }
+
+  .Business-info {
+      font-size: 1.3rem;
+  }
+}
+

@@ -1,28 +1,45 @@
 .staff-page {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    line-height: 1.6;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+.staff-page h2 {
+  color: #2a5d84;
+  text-align: center;
+}
+
+.staff-section h3 {
+  color: #1f4b6e;
+  margin-top: 20px;
+}
+
+.staff-section p {
+  font-size: 16px;
+  color: #333;
+  margin: 5px 0;
+}
+
+.staff-section {
+  margin-bottom: 20px;
+}
+
+.Staff-page-intro {
+  text-align: center;
+  font-size: 18px;
+}
+
+
+@media (min-width: 768px) {
   .staff-page h2 {
-    color: #2a5d84;
-    text-align: center;
+    font-size: 1.6rem;
   }
-  
+
   .staff-section h3 {
-    color: #1f4b6e;
-    margin-top: 20px;
+    font-size: 1.4rem;
   }
-  
+
   .staff-section p {
-    font-size: 16px;
-    color: #333;
-    margin: 5px 0;
+    font-size: 1.4rem;
   }
-  
-  .staff-section {
-    margin-bottom: 20px;
-  }
-  .Staff-page-intro{
-    text-align: center;
-  }
+}

@@ -1,42 +1,67 @@
 .business-info-section {
-    padding: 2rem;
-    font-size: 1.2rem;
+    padding: 1.5rem;
+    font-size: 1.1rem;
     background-color: #f9f9f9;
-}
-
-.business-info-section h1 {
-    font-size: 2rem;
+  }
+  
+  .business-info-section h1 {
+    font-size: 1.8rem;
     text-align: center;
     margin-bottom: 1.5rem;
-}
-
-.business-info-section h2 {
-    font-size: 1.5rem;
+    color:black;
+  }
+  
+  .business-info-section h2 {
+    font-size: 1.4rem;
     margin-top: 1rem;
     color: #003366;
-}
-
-.business-info-section p {
+  }
+  
+  .business-info-section p {
     margin-bottom: 1rem;
     line-height: 1.6;
-}
-
-.business-info-section ul {
+  }
+  
+  .business-info-section ul {
     list-style-type: none;
     padding: 0;
-}
-
-.business-info-section li {
-    margin-bottom: 2rem;
-}
-
-.why-partner ul {
+  }
+  
+  .business-info-section li {
+    margin-bottom: 1.5rem;
+  }
+  
+  .why-partner ul {
     padding-left: 20px;
-}
-
-.contact-us {
+  }
+  
+  .contact-us {
     background-color: #e1f5fe;
-    padding: 2rem;
+    padding: 1.5rem;
     text-align: center;
     margin-top: 2rem;
-}
+  }
+
+  @media (min-width: 768px) {
+    .business-info-section {
+      padding: 2rem;
+      font-size: 1.2rem;
+    }
+  
+    .business-info-section h1 {
+      font-size: 2rem;
+    }
+  
+    .business-info-section h2 {
+      font-size: 1.5rem;
+    }
+  
+    .business-info-section li {
+      margin-bottom: 2rem;
+    }
+  
+    .contact-us {
+      padding: 2rem;
+    }
+  }
+  
