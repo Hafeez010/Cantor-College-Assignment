@@ -6,11 +6,11 @@
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/Contact-us/page": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/Contact-us/page.css",
-      "static/chunks/app/Contact-us/page.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/Our-Subjects/page": [
       "static/chunks/webpack.js",
@@ -18,11 +18,11 @@
       "static/css/app/Our-Subjects/page.css",
       "static/chunks/app/Our-Subjects/page.js"
     ],
-    "/layout": [
+    "/campus-map/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/css/app/campus-map/page.css",
+      "static/chunks/app/campus-map/page.js"
     ],
     "/staff/page": [
       "static/chunks/webpack.js",
@@ -30,11 +30,11 @@
       "static/css/app/staff/page.css",
       "static/chunks/app/staff/page.js"
     ],
-    "/campus-map/page": [
+    "/Contact-us/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/campus-map/page.css",
-      "static/chunks/app/campus-map/page.js"
+      "static/css/app/Contact-us/page.css",
+      "static/chunks/app/Contact-us/page.js"
     ],
     "/students/page": [
       "static/chunks/webpack.js",
